@@ -18,7 +18,7 @@ PyGitDB
      :alt: Updates
 
 
-NoSQL database. Based on GitDB project, by Kenneth Ruyers.
+Git as a NoSQL database. Based on [GitDB project](https://github.com/Kennethtruyers/GitDb), by Kenneth Ruyers.
 
 
 * Free software: MIT license
